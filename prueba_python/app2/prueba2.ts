@@ -33,7 +33,6 @@ export class GildedRose {
                 this.updateBackstagePasses(item);
                 break;
             case 'Sulfuras, Hand of Ragnaros':
-                // No action needed for Sulfuras
                 break;
             case 'Conjured':
                 this.updateConjured(item);
